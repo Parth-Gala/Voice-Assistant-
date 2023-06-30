@@ -1,4 +1,4 @@
- <h1 align="center">Voice-Assitant TalkBot named after supercomputer - Param </h1>
+ <h1 align="center">Voice-Assistant TalkBot named after supercomputer - Param </h1>
  
  <h3 align="center">Major/Important Tasks which the program can perform are:</h3>
  -Search User’s Request on Wikipedia and Google.(User can choose which portal to search on)</br>
